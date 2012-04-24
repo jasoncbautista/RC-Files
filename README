@@ -1,1 +1,13 @@
 Took parts here and there from various sources
+
+
+
+VIM:
+
+
+# this opens all files recursively in a directory into buffer
+:n ./**
+
+
+:b type<tab> to auto complete
+
