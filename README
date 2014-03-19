@@ -11,3 +11,7 @@ VIM:
 
 :b type<tab> to auto complete
 
+
+
+# no whitepsace indicators
+:set list
